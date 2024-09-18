@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Práctica 4</title>
+    <link rel="stylesheet" href="stlies.css">
+</head>
+<body>
+    <header>
+        <h1></h1>
+        <p>Funcionamiento de aplicaciones web</p>
+    </header>
+
+    <div class="container">
+        <div class="main-content">
+            <img src="Desarrollo-Aplicaciones-Web.jpg" alt="Desarrollo Aplicaciones Web" width="400" height="400">
+        </div>
+
+        <div class="sidebar">
+            <h2>Concepto General</h2>
+            <p>Las aplicaciones web son básicamente programas que usamos en internet para hacer distintas actividades, como editar documentos, enviar mensajes, comprar cosas o manejar una empresa en línea.</p>
+        </div>
+
+        <div class="sidebar">
+            <h2>¿Qué son las aplicaciones web?</h2>
+            <p>Las aplicaciones web son programas de software que se ejecutan en un navegador web, como Google Chrome o Firefox. Estas aplicaciones no se descargan en nuestros dispositivos, sino que se ejecutan en un servidor y se transmiten a través de Internet al navegador de nuestro dispositivo.</p>
+            <p>Algunas de las aplicaciones web más populares incluyen Gmail, Google Maps y YouTube. Estas poderosas herramientas ofrecen la comodidad de ser accesibles desde cualquier lugar y en cualquier momento, siempre que tengas una conexión a internet.</p>
+            <p>Dichas aplicaciones han revolucionado la manera en que realizamos tareas cotidianas, ya que permiten ejecutar funciones complejas que antes requerían software específico. Además, fomentan la colaboración en tiempo real y ofrecen actualizaciones automáticas, garantizando así la última versión y funcionalidad mejorada sin esfuerzo por parte del usuario.</p>
+            <img src="aplicacionesweb.png" alt="Aplicaciones Web" width="500" height="400">
+        </div>
+
+        <div class="sidebar">
+            <h2>¿Qué características tiene una aplicación web?</h2>
+            <p>Las aplicaciones web comparten varias características distintivas que las diferencian del software tradicional. Algunas de estas incluyen:</p>
+            <ul>
+                <li><b>Accesibilidad:</b> Las aplicaciones web son accesibles desde cualquier dispositivo con un navegador y conexión a internet, lo que las hace convenientes y versátiles.</li>
+                <li><b>No requieren instalación:</b> A diferencia de las aplicaciones nativas, las aplicaciones web no requieren descarga ni instalación, lo que simplifica su uso y mantenimiento.</li>
+                <li><b>Actualizaciones automáticas:</b> Las actualizaciones de las aplicaciones web suelen implementarse automáticamente, lo que garantiza que siempre tengas acceso a la última versión del software.</li>
+            </ul>
+            <img src="arquitectura-aplicaciones-web-768x384.png" alt="Arquitectura Aplicaciones Web" width="500" height="400">
+            <p>Platzi. (2022, septiembre 22). <i>¿Qué son las aplicaciones web?</i>. Platzi. <a href="https://platzi.com/blog/que-son-aplicaciones-web/">https://platzi.com/blog/que-son-aplicaciones-web/</a></p>
+        </div>
+
+        <div class="sidebar">
+            <h2>Tecnologías para el desarrollo de aplicaciones web</h2>
+            <p>El desarrollo de aplicaciones web es una de las profesiones con más alta demanda. Sin embargo, requiere dominio de tecnologías complejas y técnicas avanzadas. Conocer estas tecnologías aumentará tus posibilidades de éxito en este campo.</p>
+            <img src="Frameworks-y-librerias-tecnologias-desarrollo-aplicaciones-web.png" alt="Frameworks y Librerías" width="500" height="400">
+        </div>
+
+        <div class="sidebar">
+            <h2>Tecnologías Frontend</h2>
+            <p>Tienen que ver con la parte visible de la plataforma, donde los usuarios interactúan. Algunas tecnologías importantes incluyen:</p>
+            <p><b>JavaScript:</b> Lenguaje de programación que otorga interactividad y dinamismo a los sitios web.</p>
+            <p><b>HTML:</b> Lenguaje de marcado usado para estructurar y describir el contenido de una página web.</p>
+            <p><b>CSS:</b> Lenguaje que define el estilo visual de los documentos HTML, proporcionando diseño y estética a las páginas.</p>
+            <img src="fronted-tecnologias-desarrollo-aplicaciones-web.png" alt="Frontend Tecnologías" width="600" height="400">
+        
+        </div>
+        <div class="sidebar"></div>
+            <h2>Tecnologías Backend</h2>
+            <p> Son las que permiten que todo funcione correctamente, procesando información y conectándose al servidor. En decir, esta tecnología implementa los comportamientos de la web en el servidor.</p>
+            <p>Destacamos las siguientes tecnologías: </p>
+            <p><b>PHP:</b> Una de las mejores tecnologías al ser de uso general y adaptarse al desarrollo web. Se utiliza para la comunicación de un sitio web con un servidor de datos. Gracias a esto, es posible crear contenido dinámico con bases de datos como MySQL y con HTML.</p>
+            <p><b>Python:</b> El factor más diferenciador de esta tecnología es que además de poseer una gran cantidad de librerías, es completamente gratis. Es una tecnología sencilla pero potente, al usar menos líneas de código que cualquier otro lenguaje de programación. Esto la convierte en una de las tecnologías más usadas.</p>
+            <p><b>Java EE:</b> Java Enterprise Edition, se utiliza para el desarrollo y ejecución de software de Java en el lado del servidor para plataformas empresariales de gran nivel.</p>
+            <p>ILERNA. (2023, mayo 9). <i>Tecnologías de desarrollo de aplicaciones web</i>. ILERNA Blog. 
+                <a href="https://www.ilerna.es/blog/tecnologias-desarrollo-aplicaciones-web">https://www.ilerna.es/blog/tecnologias-desarrollo-aplicaciones-web</a></p>
